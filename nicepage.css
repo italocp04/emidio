@@ -8309,7 +8309,7 @@ section.u-image,
 }
 .u-container-layout {
   position: relative;
-  flex: 1;
+  *flex: 1;
   max-width: 100%;
 }
 .u-inner-container-layout,
